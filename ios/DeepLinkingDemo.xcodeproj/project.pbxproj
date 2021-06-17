@@ -145,7 +145,6 @@
 				7CEE7D8E29AF69BC234FAE47 /* Pods-DeepLinkingDemo-DeepLinkingDemoTests.debug.xcconfig */,
 				9535C359ECB691D861E57AC2 /* Pods-DeepLinkingDemo-DeepLinkingDemoTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
