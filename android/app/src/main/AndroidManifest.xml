@@ -21,11 +21,24 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
 
-        <intent-filter>
+        <intent-filter android:autoVerify="true">
           <action android:name="android.intent.action.VIEW" />
           <category android:name="android.intent.category.DEFAULT" />
           <category android:name="android.intent.category.BROWSABLE" />
           <data android:scheme="swapidemo" />
+
+          <data
+            android:scheme="https"
+            android:host="reactnativeschool.com"
+            android:pathPrefix="/person"
+          />
+
+          <data
+            android:scheme="https"
+            android:host="reactnativeschool.com"
+            android:pathPrefix="/people"
+          />
+
         </intent-filter>
       </activity>
     </application>
