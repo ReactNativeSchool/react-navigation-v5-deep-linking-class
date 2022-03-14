@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface DeepLinkingDemoTests : XCTestCase
+@interface DeepLinkDemoTests : XCTestCase
 
 @end
 
-@implementation DeepLinkingDemoTests
+@implementation DeepLinkDemoTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
