@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "DeepLinkingDemo.app"
-               BlueprintName = "DeepLinkingDemo"
-               ReferencedContainer = "container:DeepLinkingDemo.xcodeproj">
+               BuildableName = "DeepLinkDemo.app"
+               BlueprintName = "DeepLinkDemo"
+               ReferencedContainer = "container:DeepLinkDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "DeepLinkingDemoTests.xctest"
-               BlueprintName = "DeepLinkingDemoTests"
-               ReferencedContainer = "container:DeepLinkingDemo.xcodeproj">
+               BuildableName = "DeepLinkDemoTests.xctest"
+               BlueprintName = "DeepLinkDemoTests"
+               ReferencedContainer = "container:DeepLinkDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DeepLinkingDemo.app"
-            BlueprintName = "DeepLinkingDemo"
-            ReferencedContainer = "container:DeepLinkingDemo.xcodeproj">
+            BuildableName = "DeepLinkDemo.app"
+            BlueprintName = "DeepLinkDemo"
+            ReferencedContainer = "container:DeepLinkDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "DeepLinkingDemo.app"
-            BlueprintName = "DeepLinkingDemo"
-            ReferencedContainer = "container:DeepLinkingDemo.xcodeproj">
+            BuildableName = "DeepLinkDemo.app"
+            BlueprintName = "DeepLinkDemo"
+            ReferencedContainer = "container:DeepLinkDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
