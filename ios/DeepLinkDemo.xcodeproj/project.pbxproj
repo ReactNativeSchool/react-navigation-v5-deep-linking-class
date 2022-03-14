@@ -114,7 +114,6 @@
 				6E1671067136969991DA9F98 /* Pods-DeepLinkDemo-DeepLinkDemoTests.debug.xcconfig */,
 				AE473C8DE7AC22E932A184D3 /* Pods-DeepLinkDemo-DeepLinkDemoTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
